@@ -51,7 +51,6 @@ void setup() {
 
   // Initialize Pin 5 for Green LED as Output.
   pinMode(greenLED, OUTPUT);
-
 }
 
 /*
